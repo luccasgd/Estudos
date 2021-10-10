@@ -1,2 +1,2 @@
 # Estudos
-Repositorio destinado para estudos
+Repositorio destinado para estudos de JS
